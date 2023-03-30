@@ -1,5 +1,5 @@
 # teencoder-project
-> 청소년을 위한 IT 커뮤니티 웹 TeenCoder.
+> 청소년 개발자를 위한 IT 커뮤니티 웹 TeenCoder.
 
 <br>
 
@@ -33,7 +33,7 @@
 
 <br>
 
-## MySQL DataBase 계정 생성 및 권한 부여
+## MySQL Database 계정 생성 및 권한 부여
 ```SQL
 create database teencoder;
 create hoong@localhost identified by '8888';
